@@ -6,7 +6,7 @@ Easy and configurable
 
 # Installation
 
-`npm -i easyMasker --save-dev`
+`npm i easyMasker --save`
 
 
 
@@ -14,7 +14,7 @@ Easy and configurable
 
 
 ```
-const easyMasker = require('easyMasker');
+import {maskInput} from 'easymasker';
 
 const_options= { maskWith: '^',fromIndex:4,toIndex:5};
 
