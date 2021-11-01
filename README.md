@@ -6,7 +6,7 @@ Easy and configurable
 
 # Installation
 
-`npm i easyMasker --save`
+`npm i easymasker --save`
 
 
 
@@ -22,5 +22,12 @@ const _maskedInput = easyMasker.maskInput('05536843029', options);
 
 ```
 
+## Options
 
+```
+{ maskWith: '^',
+  fromIndex:4,
+  toIndex:5
+}
 
+```
