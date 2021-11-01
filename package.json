@@ -1,0 +1,22 @@
+{
+  "name": "easymasker",
+  "version": "1.0.0",
+  "description": "Mask inputs with no effort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sodogan/easyMasker.git"
+  },
+  "keywords": [
+    "mask"
+  ],
+  "author": "Solen Dogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sodogan/easyMasker/issues"
+  },
+  "homepage": "https://github.com/sodogan/easyMasker#readme"
+}
